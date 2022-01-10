@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleLab5_4
 {
-    class Lab5_3
+    class Lab5_4
     {
         static void Main(string[] args)
         {
